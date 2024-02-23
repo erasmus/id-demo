@@ -6,3 +6,7 @@ footer p {
     font-size: small;
     color: #999
 }
+
+.shop-thumbnail {
+    max-width: 100%;
+}
